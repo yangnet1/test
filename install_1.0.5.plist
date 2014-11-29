@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ime.sogou.com/dl/120.png</string>
+					<string>http://106.187.55.200:8080/120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
